@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "data structure and algorithm test",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.4.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KurniaseptiaWiguna/test.git"
+  },
+  "author": "kurnia septia wiguna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KurniaseptiaWiguna/test/issues"
+  },
+  "homepage": "https://github.com/KurniaseptiaWiguna/test#readme"
+}
